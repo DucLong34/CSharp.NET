@@ -1,0 +1,7 @@
+D:\CSharp.NET\Lesson1\bai1.1\bin\Debug\bai1.1.exe.config
+D:\CSharp.NET\Lesson1\bai1.1\bin\Debug\bai1.1.exe
+D:\CSharp.NET\Lesson1\bai1.1\bin\Debug\bai1.1.pdb
+D:\CSharp.NET\Lesson1\bai1.1\obj\Debug\bai1.1.csproj.AssemblyReference.cache
+D:\CSharp.NET\Lesson1\bai1.1\obj\Debug\bai1.1.csproj.CoreCompileInputs.cache
+D:\CSharp.NET\Lesson1\bai1.1\obj\Debug\bai1.1.exe
+D:\CSharp.NET\Lesson1\bai1.1\obj\Debug\bai1.1.pdb

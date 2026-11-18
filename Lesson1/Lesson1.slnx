@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="bai1.1/bai1.1.csproj">
+    <BuildDependency Project="bai1.2/bai1.2.csproj" />
+  </Project>
+  <Project Path="bai1.2/bai1.2.csproj" />
+</Solution>
