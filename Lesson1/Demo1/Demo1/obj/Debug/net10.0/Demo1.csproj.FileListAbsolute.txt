@@ -1,0 +1,16 @@
+D:\DevC#\Lesson1\Demo1\Demo1\bin\Debug\net10.0\Demo1.exe
+D:\DevC#\Lesson1\Demo1\Demo1\bin\Debug\net10.0\Demo1.deps.json
+D:\DevC#\Lesson1\Demo1\Demo1\bin\Debug\net10.0\Demo1.runtimeconfig.json
+D:\DevC#\Lesson1\Demo1\Demo1\bin\Debug\net10.0\Demo1.runtimeconfig.dev.json
+D:\DevC#\Lesson1\Demo1\Demo1\bin\Debug\net10.0\Demo1.dll
+D:\DevC#\Lesson1\Demo1\Demo1\bin\Debug\net10.0\Demo1.pdb
+D:\DevC#\Lesson1\Demo1\Demo1\obj\Debug\net10.0\Demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevC#\Lesson1\Demo1\Demo1\obj\Debug\net10.0\Demo1.AssemblyInfoInputs.cache
+D:\DevC#\Lesson1\Demo1\Demo1\obj\Debug\net10.0\Demo1.AssemblyInfo.cs
+D:\DevC#\Lesson1\Demo1\Demo1\obj\Debug\net10.0\Demo1.csproj.CoreCompileInputs.cache
+D:\DevC#\Lesson1\Demo1\Demo1\obj\Debug\net10.0\Demo1.dll
+D:\DevC#\Lesson1\Demo1\Demo1\obj\Debug\net10.0\refint\Demo1.dll
+D:\DevC#\Lesson1\Demo1\Demo1\obj\Debug\net10.0\Demo1.pdb
+D:\DevC#\Lesson1\Demo1\Demo1\obj\Debug\net10.0\Demo1.genruntimeconfig.cache
+D:\DevC#\Lesson1\Demo1\Demo1\obj\Debug\net10.0\ref\Demo1.dll
+D:\DevC#\Lesson1\Demo1\Demo1\obj\Debug\net10.0\Demo1.csproj.Up2Date
